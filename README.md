@@ -1,3 +1,2 @@
-# DoublyLinkedList
+Singly Linked List and basic operations
 
-Çift baglantılı liste ve temel operasyonları
