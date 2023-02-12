@@ -1,2 +1,2 @@
-Singly Linked List and basic operations
+Doubly Linked List and basic operations
 
